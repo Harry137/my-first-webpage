@@ -1,8 +1,8 @@
-# _{My first webpage}_
+# _My first webpage_
 
-#### By _**{Ivan Dubinin}**_
+#### By _**Ivan Dubinin**_
 
-#### _{Demonstration skill using of CSS and HTML}_
+#### _Demonstration skill using of CSS and HTML_
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-_{A demonstration of how I used CSS and HTML technologies to create my-first-webpage and my-favorite-things projects}_
+_A demonstration of how I used CSS and HTML technologies to create my-first-webpage and my-favorite-things projects_
 
 ## Setup/Installation Requirements
 
